@@ -1,0 +1,14 @@
+site_name: tesselite doc
+site_url: https://tesselite.readthedocs.github.io
+site_author: you
+site_description: a short description of your website
+
+nav:
+  - about: index.md
+  - networking: networking.md
+
+theme:
+  name: readthedocs
+  highlightjs: true
+  hljs_languages:
+    - yaml
