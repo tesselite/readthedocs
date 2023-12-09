@@ -19,15 +19,15 @@ build a [Markdown](https://www.mkdocs.org/) based documentation:
 ### Build The Website
 
 - requires 
-  - python (3.8+)
-  - make (bundled with Mingw)
+  - python (version [>=3.9](https://www.python.org/downloads/))
+  - make (bundled with [Mingw](https://www.mingw-w64.org/), packaged for [Darwin](https://formulae.brew.sh/formula/make) and [Linux](https://pkgs.org/download/make))
   - bash (bundled with Linux, Darwin, Mingw)
 
 
 - setup dependencies:
 
 ````bash
-$ make install
+$ make init
 ````
 
 - build the local server:
@@ -37,7 +37,6 @@ $ make build
 ````
 
 - make local changes till you happy with the website...
-
 
 
 ### Update The Website

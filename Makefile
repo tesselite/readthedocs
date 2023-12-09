@@ -5,8 +5,8 @@ SHELL := /bin/bash
 	@poetry config virtualenvs.path .venv
 	@poetry env use python
 
-.PHONY: install
-install:; $(info $(M) installing dependencies..)
+.PHONY: init
+init:; $(info $(M) installing dependencies..)
 	@pip install poetry
 	@poetry config virtualenvs.path .venv
 	@poetry env use python
