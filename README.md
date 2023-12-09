@@ -18,7 +18,10 @@ build a [Markdown](https://www.mkdocs.org/) based documentation:
 
 ### Build The Website
 
-- requires python (3.8+)
+- requires 
+  - python (3.8+)
+  - make (bundled with Mingw)
+  - bash (bundled with Linux, Darwin, Mingw)
 
 
 - setup dependencies:
