@@ -17,5 +17,5 @@ build:.set-env; $(info $(M) building html and serving..)
 	@poetry run mkdocs serve
 
 .PHONY: deploy
-deploy:.set-env; $(info $(M) pushing online..)
+deploy:.set-env; $(info $(M) updating website online..)
 	@poetry run mkdocs gh-deploy --remote-branch gh-pages

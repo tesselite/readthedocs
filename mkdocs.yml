@@ -1,14 +1,34 @@
-site_name: tesselite doc
+site_name: tesselite.github.io/readthedocs
 site_url: https://readthedocs
-site_author: you
+site_author: hello@tesselite.us
 site_description: a short description of your website
 
 nav:
-  - about: index.md
-  - networking: networking.md
+  - Home: index.md
+  - Product:Relief: relief.md
+  - Product:Tessel: tessel.md
+
+
+markdown_extensions:
+  - markdown_fenced_code_tabs:
+      single_block_as_tab: False
+      active_class: 'active'
+      template: 'default'
+
 
 theme:
   name: readthedocs
+  logo: static/logo.gif
   highlightjs: true
   hljs_languages:
     - yaml
+  features:
+    - navigation.footer
+  extra:
+    social:
+      - icon: fontawesome/brands/mastodon
+        link: https://fosstodon.org/@squidfunk
+
+extra_css:
+  - static/code-tab.css
+  - static/image.css

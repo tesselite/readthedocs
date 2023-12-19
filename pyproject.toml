@@ -8,7 +8,9 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = ">=3.8"
-mkdocs = "^1.5.3"
+mkdocs = "^1.2.4"
+markdown-fenced-code-tabs = "^1.0.5"
+markdown = "<3.4"
 
 
 [build-system]
