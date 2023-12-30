@@ -34,7 +34,7 @@ Then produces radar like images. We named it **Relief**.
 
 release stage: *alpha*
 
-product documentation: [here](relief)
+product documentation: [here](relief.md)
 
 
 
@@ -42,4 +42,4 @@ product documentation: [here](relief)
 
 /t.s.ɛ.l./
 
-product [documentation](tessel)
+product [documentation](tessel.md)
