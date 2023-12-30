@@ -30,11 +30,11 @@ We are building the next generation edge detector (sharpener / filter).
 In our wording, it drills geometry out of images.
 Then produces radar like images. We named it **Relief**.
 
-![img](readthedocs/static/lena.png)
+![img](static/lena.png)
 
 release stage: *alpha*
 
-product documentation: [here](readthedocs/relief)
+product documentation: [here](relief)
 
 
 
@@ -42,4 +42,4 @@ product documentation: [here](readthedocs/relief)
 
 /t.s.ɛ.l./
 
-product [documentation](readthedocs/tessel)
+product [documentation](tessel)

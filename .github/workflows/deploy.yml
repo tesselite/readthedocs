@@ -2,8 +2,7 @@ name: deploy
 
 on:
   push:
-    branches:
-      - *
+
 
 permissions:
   contents: write
@@ -12,6 +11,11 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
+      - name: set push permission
+        if: env.GH_TOKEN == ''
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: echo "GH_TOKEN=${GITHUB_TOKEN}" >> $GITHUB_ENV
       - uses: actions/checkout@v4
       - name: Configure Git Credentials
         run: |
