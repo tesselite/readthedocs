@@ -1,0 +1,42 @@
+name: deploy
+
+on:
+  push:
+    branches:
+      - *
+
+permissions:
+  contents: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Configure Git Credentials
+        run: |
+          git config user.name tesselite ltd
+          git config user.email hello@tesselite.us
+      - uses: actions/setup-python@v4
+        id: setup-python
+        with:
+          python-version: 3.12
+      - name: Run image
+        uses: abatilo/actions-poetry@v2
+      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV
+      - uses: actions/cache@v3
+        with:
+          key: mkdocs-material-${{ env.cache_id }}
+          path: .cache
+          restore-keys: |
+            mkdocs-material-
+      - name: cached install
+        id: cached-poetry-dependencies
+        uses: actions/cache@v3
+        with:
+          path: .venv
+          key: venv-${{ runner.os }}-${{ steps.setup-python.outputs.python-version }}-${{ hashFiles('poetry.lock', 'pyproject.toml') }}
+      - name: build env
+        run: make init
+      - name: deploy doc
+        run: make deploy

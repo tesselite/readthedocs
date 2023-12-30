@@ -1,6 +1,6 @@
-# Welcome to Tesselite
+# **welcome to tesselite**
 
-## Overview
+## **overview**
 
 This is the official documentation of Tesselite products (@relief, @tessel).
 
@@ -9,7 +9,7 @@ The material exposed in the documentation is original. Not published elsewhere. 
 There is also external references, as we value what others build, as we value what we build.
 
 
-## Tesselite
+## **tesselite**
 
 Our motto is : *"many hard-shelled problems are in fact unexplored mathematics. 
 The problem is not hard. We are just ill-equipped to solve it.
@@ -19,26 +19,27 @@ We are building those tools. The next generation tools. Those tools might befit 
 Let's take a tour.
 
 
-## Products
+## **products**
 
 
-### Relief
+### *@relief (geometry detection)*
 
-/r.I.l.i.f/
+/r.I.l.i.e.f/
 
-We are building the next generation edge detector / sharpener / filter. In our wording, it extracts geometry from images.
-And produces radar like images. We named it **Relief**.
+We are building the next generation edge detector (sharpener / filter). 
+In our wording, it drills geometry out of images.
+Then produces radar like images. We named it **Relief**.
 
-![img](/static/lena.png)
+![img](readthedocs/static/lena.png)
 
 release stage: *alpha*
 
-product documentation: [here](/relief)
+product documentation: [here](readthedocs/relief)
 
 
 
-### Tessel 
+### *@tessel (routing)* 
 
 /t.s.ɛ.l./
 
-product [documentation](/tessel)
+product [documentation](readthedocs/tessel)

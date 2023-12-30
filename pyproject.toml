@@ -11,6 +11,8 @@ python = ">=3.8"
 mkdocs = "^1.2.4"
 markdown-fenced-code-tabs = "^1.0.5"
 markdown = "<3.4"
+mkdocs-video = "^1.5.0"
+mkdocs-material = "^9.5.3"
 
 
 [build-system]

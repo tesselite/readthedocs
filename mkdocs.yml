@@ -1,12 +1,12 @@
-site_name: tesselite.github.io/readthedocs
+site_name: tesselite/readthedocs
 site_url: https://readthedocs
 site_author: hello@tesselite.us
 site_description: a short description of your website
 
 nav:
-  - Home: index.md
-  - Product:Relief: relief.md
-  - Product:Tessel: tessel.md
+  - /home: index.md
+  - /relief (geometry): relief.md
+  - /tessel (routing): tessel.md
 
 
 markdown_extensions:
@@ -15,10 +15,28 @@ markdown_extensions:
       active_class: 'active'
       template: 'default'
 
+plugins:
+    - mkdocs-video
+
 
 theme:
-  name: readthedocs
-  logo: static/logo.gif
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: black
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: teal
+      toggle:
+        icon: material/brightness-4
+
+  logo: static/logo-3.png
   highlightjs: true
   hljs_languages:
     - yaml
