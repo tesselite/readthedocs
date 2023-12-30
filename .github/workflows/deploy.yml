@@ -2,6 +2,10 @@ name: deploy
 
 on:
   push:
+    paths:
+      - docs/**
+      - mkdocs.yml
+      - .github/workflows/deploy.yml
 
 permissions:
   contents: write
