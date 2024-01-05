@@ -53,4 +53,4 @@ product documentation: [here](relief.md)
 
 /t.s.ɛ.l./
 
-product [documentation](router_ai)
+product [documentation](router_ai.md)
