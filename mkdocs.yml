@@ -1,14 +1,54 @@
-site_name: tesselite doc
+site_name: tesselite/readthedocs
 site_url: https://readthedocs
-site_author: you
+site_author: hello@tesselite.us
 site_description: a short description of your website
 
 nav:
-  - about: index.md
-  - networking: networking.md
+  - /home: index.md
+  - /usage of relief (geometry): relief.md
+  - /usage of routerAI (network): router_ai.md
+  - /articles (high level): vision.md
+
+
+markdown_extensions:
+  - markdown_fenced_code_tabs:
+      single_block_as_tab: False
+      active_class: 'active'
+      template: 'default'
+  - footnotes
+
+plugins:
+    - mkdocs-video
+
 
 theme:
-  name: readthedocs
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: black
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: teal
+      toggle:
+        icon: material/brightness-4
+
+  logo: static/logo-3.png
   highlightjs: true
   hljs_languages:
     - yaml
+  features:
+    - navigation.footer
+  extra:
+    social:
+      - icon: fontawesome/brands/mastodon
+        link: https://fosstodon.org/@squidfunk
+
+extra_css:
+  - static/code-tab.css
+  - static/image.css
