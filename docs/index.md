@@ -1,19 +1,30 @@
 # **welcome to tesselite**
 
+
 ## **overview**
 
-This is the official documentation of Tesselite products (@relief, @tessel).
+This is the official documentation of Tesselite Ltd and licenced products (@relief, @routerAI).
 
-This documentation provides all information needed to use our products. 
-The material exposed in the documentation is original. Not published elsewhere. If you use our material always reference our website.
-There is also external references, as we value what others build, as we value what we build.
+This documentation provides all information needed to use our products.[^1] The documentation is broken in three layers:
 
+- **usage** documentation: how to set your computer to experiment our products. 
+
+- **low level** documentation: what are the technical challenges in the engineering of customer facing software.[^2]
+
+- **high level** documentation: what is the vision behind our products.[^3]
+
+
+
+
+[^1]: the material exposed in the documentation is original, not published elsewhere. If you use our material always reference our website.
+[^2]: our products are not production ready yet. we do not recommend to plug and use our products as such.  
+[^3]: our products are served as cloud services (software as service model). But, this service model is transient in the grand plan of revolutionizing AI just another time. 
 
 ## **tesselite**
 
 Our motto is : *"many hard-shelled problems are in fact unexplored mathematics. 
 The problem is not hard. We are just ill-equipped to solve it.
-Instead of cycling, to make the existing tools work. Let's shift focus and equip with the right tools."*
+Instead of cycling, to make the existing tools work. Let's equip with the right tools."*
 
 We are building those tools. The next generation tools. Those tools might befit your problem, we never know right?
 Let's take a tour.
@@ -42,4 +53,4 @@ product documentation: [here](relief.md)
 
 /t.s.ɛ.l./
 
-product [documentation](tessel.md)
+product [documentation](router_ai)

@@ -5,8 +5,9 @@ site_description: a short description of your website
 
 nav:
   - /home: index.md
-  - /relief (geometry): relief.md
-  - /tessel (routing): tessel.md
+  - /usage of relief (geometry): relief.md
+  - /usage of routerAI (network): router_ai.md
+  - /articles (high level): vision.md
 
 
 markdown_extensions:
@@ -14,6 +15,7 @@ markdown_extensions:
       single_block_as_tab: False
       active_class: 'active'
       template: 'default'
+  - footnotes
 
 plugins:
     - mkdocs-video
