@@ -1,5 +1,8 @@
 # Documentation Website
 
+![sync](https://github.com/tesselite/readthedocs/actions/workflows/deploy.yml/badge.svg)
+
+
 website link [here](https://tesselite.github.io/readthedocs/).
 
 
@@ -58,4 +61,12 @@ $ make deploy
 
 ### Update Automation
 
-coming soon...
+Automatic deployment is now in-place.
+
+As soon as changes are merged on main branch. Changes are deployed on the website online.
+
+In case of hotfixes, name your branch `deploy*` or `hotfix*`. Changes will be automatically deployed at each git push.
+
+
+
+

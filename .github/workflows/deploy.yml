@@ -6,6 +6,11 @@ on:
       - docs/**
       - mkdocs.yml
       - .github/workflows/deploy.yml
+    branches:
+      - main
+      - deploy*
+      - hotfix*
+
 
 permissions:
   contents: write
