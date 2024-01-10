@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://readthedocs/high-level/</loc>
+         <loc>https://readthedocs/</loc>
          <lastmod>2024-01-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://readthedocs/home/</loc>
+         <loc>https://readthedocs/high-level/</loc>
          <lastmod>2024-01-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
