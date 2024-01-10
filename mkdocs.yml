@@ -4,10 +4,22 @@ site_author: hello@tesselite.us
 site_description: a short description of your website
 
 nav:
-  - /home: index.md
-  - /usage of relief (geometry): relief.md
-  - /usage of routerAI (network): router_ai.md
-  - /articles (high level): vision.md
+  - /home: home.md
+
+  - /high-level:
+    - menu: high-level.md
+    - articles:
+      - second-ai-revolution: articles/second-ai-revolution.md
+  - /low-level:
+    - menu: low-level.md
+  - /usage:
+    - relief (geometry): relief.md
+    - routerAI (network): router_ai.md
+  - /more [...]:
+    - relief:
+      - example-1: more/relief-demo1.md
+      - example-2: more/relief-demo2.md
+      - example-3: more/relief-demo3.md
 
 
 markdown_extensions:
@@ -18,8 +30,13 @@ markdown_extensions:
   - footnotes
 
 plugins:
-    - mkdocs-video
-
+    - mkdocs-video:
+        is_video: True
+        video_autoplay: True
+        video_muted: True
+        video_controls: True
+        css_style:
+          width: "800px"
 
 theme:
   name: material

@@ -1,7 +1,7 @@
 # The Second AI Revolution: *Low Footprint, High Accuracy Models*
 
 
-## **AI first revolution**
+## **The first AI revolution**
 
 ![img-xl](../static/external/openai.png)
 
@@ -52,8 +52,9 @@ Doesn't indicate there is a computational space where lives the geometry? Where 
 [^3]: source: https://www.eia.gov/energyexplained/use-of-energy/electricity-use-in-homes.php
 [^4]: source: https://www.streamdatacenters.com/glossary/data-center-cost/
 
-## **AI second revolution**
+## **The second AI revolution**
 
+![img-xl](../static/external/openai-fixed.png)
 
 The second AI revolution, building upon the lessons learned from its predecessor, focuses on crafting compact, highly accurate models with minimal energy requirements. The breakthrough lies not merely in scaling down the existing models but in a fundamental rethinking of AI architectures. Researchers and developers have dissected the inner workings of the massive models from the first wave, distilling their essence to create streamlined, efficient versions.
 

@@ -7,13 +7,12 @@ This is the official documentation of Tesselite Ltd and licenced products (@reli
 
 This documentation provides all information needed to use our products.[^1] The documentation is broken in three layers:
 
-- **usage** documentation: how to set your computer to experiment our products. 
 
-- **low level** documentation: what are the technical challenges in the engineering of customer facing software.[^2]
+- **high level** documentation: what is the far-sighted vision behind our products?[^3]
 
-- **high level** documentation: what is the vision behind our products.[^3]
+- **low level** documentation: what are the technical challenges in the engineering of customer facing software?[^2]
 
-
+- **usage** documentation: how to set your computer to experiment our products? 
 
 
 [^1]: the material exposed in the documentation is original, not published elsewhere. If you use our material always reference our website.

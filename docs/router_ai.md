@@ -1,14 +1,6 @@
-# Welcome to MkDocs
+# @routerAI
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+*under construction*
 
-## Commands
 
-* `tesselite -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+![img](static/external/under_construction.png)
