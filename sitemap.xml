@@ -1,28 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://readthedocs/</loc>
-         <lastmod>2024-01-08</lastmod>
+         <loc>https://readthedocs/high-level/</loc>
+         <lastmod>2024-01-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://readthedocs/home/</loc>
+         <lastmod>2024-01-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://readthedocs/low-level/</loc>
+         <lastmod>2024-01-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://readthedocs/relief/</loc>
-         <lastmod>2024-01-08</lastmod>
+         <lastmod>2024-01-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://readthedocs/router_ai/</loc>
-         <lastmod>2024-01-08</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://readthedocs/vision/</loc>
-         <lastmod>2024-01-08</lastmod>
+         <lastmod>2024-01-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://readthedocs/articles/second-ai-revolution/</loc>
-         <lastmod>2024-01-08</lastmod>
+         <lastmod>2024-01-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://readthedocs/more/relief-demo1/</loc>
+         <lastmod>2024-01-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://readthedocs/more/relief-demo2/</loc>
+         <lastmod>2024-01-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://readthedocs/more/relief-demo3/</loc>
+         <lastmod>2024-01-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
