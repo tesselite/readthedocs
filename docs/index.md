@@ -33,13 +33,13 @@ Let's take a tour.
 
 ### *@relief (geometry detection)*
 
-/r.l.i.e.f/
+/r.'.l.i.e.f/
 
 We are building the next generation edge detector (sharpener / filter). 
 In our wording, it drills geometry out of images.
 Then produces radar like images. We named it **Relief**.
 
-![img](static/lena.png)
+![img](static/images/lena.png)
 
 release stage: *alpha*
 

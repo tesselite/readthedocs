@@ -1,16 +1,15 @@
-# The Second AI Revolution: *Low Footprint, High Accuracy Models*
+# **The Second Artificial Intelligence Revolution** <br>*Low Footprint And High Accuracy Models*
 
 
-## **The first AI revolution**
+## **The first Artificial Intelligence revolution**
 
-![img-xl](../static/external/openai.png)
+![img-xl](../static/resources/external/openai.png)
 
-*first revolution of AI models captured here by the inflexion of compute operations amount (10^15 FLOPS)[^1].*
+*first revolution of AI models is captured by the inflexion of compute operations amount (10^15 FLOPS)[^1].*
 
 Around 2010s, there was a surge in the compute usage of AI models with the introduction of AlexNet. The new trand is about 5 times higher than the previous trend.<br>
 According, to openAI the compute operation are doubling every 4 months. <br>
-the inflexion can be captured with other norms like the number of models' parameters. on our side, we investigated different norms to better understand the behavior of relief algorithm.<br>
-we reached the conclusion that FLOPS like norms are the most stable norms in respect of implementation and execution on different hardware.
+the inflexion can be captured with other norms like the number of models' parameters.[^5] 
 
 [^1]: source: https://openai.com/research/ai-and-compute
 
@@ -51,10 +50,11 @@ Doesn't indicate there is a computational space where lives the geometry? Where 
 [^2]: source: https://en.wikipedia.org/wiki/FLOPS
 [^3]: source: https://www.eia.gov/energyexplained/use-of-energy/electricity-use-in-homes.php
 [^4]: source: https://www.streamdatacenters.com/glossary/data-center-cost/
+[^5]: we investigated different norms to better understand the behavior of relief algorithm: FLOPS like norms are the most stable norms for predicting behavior of compute intensive algorithms on different hardware.
 
-## **The second AI revolution**
+## **The second Artificial Intelligence revolution**
 
-![img-xl](../static/external/openai-fixed.png)
+![img-xl](../static/resources/external/openai-fixed.png)
 
 The second AI revolution, building upon the lessons learned from its predecessor, focuses on crafting compact, highly accurate models with minimal energy requirements. The breakthrough lies not merely in scaling down the existing models but in a fundamental rethinking of AI architectures. Researchers and developers have dissected the inner workings of the massive models from the first wave, distilling their essence to create streamlined, efficient versions.
 

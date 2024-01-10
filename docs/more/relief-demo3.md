@@ -1,4 +1,4 @@
 # @relief demo
 
 
-![type:video](../static/relief/@relief-road-traffic.mp4)
+![type:video](../static/resources/relief/@relief-road-traffic.mp4)

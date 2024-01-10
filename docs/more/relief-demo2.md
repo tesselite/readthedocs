@@ -1,5 +1,5 @@
 # @relief demo
 
 
-![type:video](../static/relief/@relief.mp4)
+![type:video](../static/resources/relief/@relief.mp4)
 
