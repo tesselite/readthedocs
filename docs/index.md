@@ -8,9 +8,9 @@ This is the official documentation of Tesselite Ltd and licenced products (@reli
 This documentation provides all information needed to use our products.[^1] The documentation is broken in three layers:
 
 
-- **high level** documentation: what is the far-sighted vision behind our products?[^3]
+- **high level** documentation[^3]: what is the far-sighted vision behind our products?
 
-- **low level** documentation: what are the technical challenges in the engineering of customer facing software?[^2]
+- **low level** documentation[^2]: what are the technical challenges in the engineering of customer facing software?
 
 - **usage** documentation: how to set your computer to experiment our products? 
 
@@ -19,7 +19,6 @@ This documentation provides all information needed to use our products.[^1] The 
 [^2]: our products are not production ready yet. we do not recommend to plug and use our products as such.  
 [^3]: our products are served as cloud services (software as service model). But, this service model is transient in the grand plan of revolutionizing AI just another time. 
 
-## **tesselite**
 
 Our motto is : *"many hard-shelled problems are in fact unexplored mathematics. 
 The problem is not hard. We are just ill-equipped to solve it.
@@ -34,13 +33,13 @@ Let's take a tour.
 
 ### *@relief (geometry detection)*
 
-/r.I.l.i.e.f/
+/r.'.l.i.e.f/
 
 We are building the next generation edge detector (sharpener / filter). 
 In our wording, it drills geometry out of images.
 Then produces radar like images. We named it **Relief**.
 
-![img](static/lena.png)
+![img](static/images/lena.png)
 
 release stage: *alpha*
 

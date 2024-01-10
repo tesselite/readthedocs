@@ -3,4 +3,4 @@
 *under construction*
 
 
-![img](static/external/under_construction.png)
+![img](static/resources/external/under_construction.png)

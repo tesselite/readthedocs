@@ -1,11 +1,10 @@
 site_name: tesselite/readthedocs
-site_url: https://readthedocs
+site_url: https://tesselite.github.io/readthedocs
 site_author: hello@tesselite.us
-site_description: a short description of your website
+site_description: document Tesselite Ltd products usage
 
 nav:
-  - /home: home.md
-
+  - /home: index.md
   - /high-level:
     - menu: high-level.md
     - articles:
@@ -55,7 +54,7 @@ theme:
       toggle:
         icon: material/brightness-4
 
-  logo: static/logo-3.png
+  logo: static/images/logo-3.png
   highlightjs: true
   hljs_languages:
     - yaml
@@ -67,5 +66,5 @@ theme:
         link: https://fosstodon.org/@squidfunk
 
 extra_css:
-  - static/code-tab.css
-  - static/image.css
+  - static/css/code-tab.css
+  - static/css/image.css
