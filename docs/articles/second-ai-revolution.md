@@ -17,17 +17,17 @@ we reached the conclusion that FLOPS like norms are the most stable norms in res
 
 Let's do some simple maths:
 
-The latest model AphaGoZero requires 2000 PFLOPS of compute capacity.
+The latest model AphaGoZero requires 2000 PetaFlops of compute capacity.
 
 The latest hardware has the following performance per dollar and watt:
 
-  - 1 TeraFLOPS uses 6W[^2]
-  - 1 TeraFLOPS costs 20$[^2]
+  - 1 TeraFlops uses 6W[^2]
+  - 1 TeraFlops costs 20$[^2]
 
 By a cross rule, we deduct:
 
-  - 2000 PFLOPS costs 12 MegaW
-  - 2000 PFLOPS costs 40 million of $
+  - 2000 PetaFlops use 12 MegaW
+  - 2000 PetaFlops cost 40 million of $
 
 To put in perspective, computational demand of a single-purpose model:
 

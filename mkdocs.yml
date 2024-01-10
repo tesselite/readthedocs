@@ -4,8 +4,7 @@ site_author: hello@tesselite.us
 site_description: a short description of your website
 
 nav:
-  - /home: home.md
-
+  - /home: index.md
   - /high-level:
     - menu: high-level.md
     - articles:
