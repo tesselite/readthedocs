@@ -4,18 +4,19 @@ site_author: hello@tesselite.us
 site_description: document Tesselite Ltd products usage
 
 nav:
-  - /home: index.md
-  - /high-level:
-    - menu: high-level.md
+  - home: index.md
+  - high-level:
+    - content: high-level.md
     - articles:
-      - second-ai-revolution: articles/second-ai-revolution.md
-  - /low-level:
-    - menu: low-level.md
-  - /usage:
-    - relief (geometry): relief.md
-    - routerAI (network): router_ai.md
-  - /more [...]:
+      - second-ai-revolution: content/second-ai-revolution.md
+  - low-level:
+    - content: low-level.md
+  - usage:
+    - relief [geometry]: relief.md
+    - routerAI [network]: router_ai.md
+  - more [...]:
     - relief:
+      - example-0: more/relief-demo0.md
       - example-1: more/relief-demo1.md
       - example-2: more/relief-demo2.md
       - example-3: more/relief-demo3.md

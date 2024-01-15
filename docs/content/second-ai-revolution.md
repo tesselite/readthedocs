@@ -1,4 +1,4 @@
-# **The Second Artificial Intelligence Revolution** <br>*Low Footprint And High Accuracy Models*
+# **The Second Artificial Intelligence Revolution::** *Low Footprint And High Accuracy Models*
 
 
 ## **The first Artificial Intelligence revolution**

@@ -3,14 +3,14 @@
 
 ## **overview**
 
-This is the official documentation of Tesselite Ltd and licenced products (@relief, @routerAI).
+This is the official documentation of Tesselite Limited and licenced products.
 
 This documentation provides all information needed to use our products.[^1] The documentation is broken in three layers:
 
 
-- **high level** documentation[^3]: what is the far-sighted vision behind our products?
+- **high level** documentation[^3]: what is the vision behind our products?
 
-- **low level** documentation[^2]: what are the technical challenges in the engineering of customer facing software?
+- **low level** documentation[^2]: what are the technical challenges in engineering of the software?
 
 - **usage** documentation: how to set your computer to experiment our products? 
 
