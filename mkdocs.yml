@@ -16,6 +16,7 @@ nav:
     - routerAI [network]: router_ai.md
   - more [...]:
     - relief:
+      - example-0: more/relief-demo0.md
       - example-1: more/relief-demo1.md
       - example-2: more/relief-demo2.md
       - example-3: more/relief-demo3.md
