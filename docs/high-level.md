@@ -1,3 +1,3 @@
-# High Level Articles
+# High Level Material
 
-1. [Revolutionizing AI Just Another Time](articles/second-ai-revolution.md)
+1. [The Second Artificial Intelligence Revolution](content/second-ai-revolution.md)

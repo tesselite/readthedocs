@@ -480,6 +480,24 @@ files = [
 ]
 
 [[package]]
+name = "mkdocs-terminal"
+version = "4.4.0"
+description = "Terminal.css theme for MkDocs"
+optional = false
+python-versions = ">=3.7"
+files = [
+    {file = "mkdocs_terminal-4.4.0-py3-none-any.whl", hash = "sha256:b2c94dc651c840e9762a1040d39371a31cc7482f7768e619e317419ebae4e40e"},
+    {file = "mkdocs_terminal-4.4.0.tar.gz", hash = "sha256:d72b87b3d0edf470695811cb56c440a43b0387212590a5dfb2f26861c6e518d7"},
+]
+
+[package.dependencies]
+jinja2 = ">=2.10"
+markdown = "*"
+mkdocs = ">=1.4.2"
+pygments = "*"
+pymdown-extensions = "*"
+
+[[package]]
 name = "mkdocs-video"
 version = "1.5.0"
 description = ""
@@ -879,4 +897,4 @@ testing = ["big-O", "jaraco.functools", "jaraco.itertools", "more-itertools", "p
 [metadata]
 lock-version = "2.0"
 python-versions = ">=3.8"
-content-hash = "3b1a537fcda54551334f0372273f85d1ce8c4cf42bfddd405beeb7953f9eb48f"
+content-hash = "b426e652808f6723a4785e5d1b6f75e81f81d2d914c5356f3a021b9fe3baab99"
