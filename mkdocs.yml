@@ -15,11 +15,12 @@ nav:
     - relief [geometry]: relief.md
     - routerAI [network]: router_ai.md
   - more [...]:
+    - pitch deck: more/tesselite-pitch-deck.pdf
     - relief:
-      - example-0: more/relief-demo0.md
-      - example-1: more/relief-demo1.md
-      - example-2: more/relief-demo2.md
-      - example-3: more/relief-demo3.md
+      - ex-0: more/relief-demo0.md
+      - ex-1: more/relief-demo1.md
+      - ex-2: more/relief-demo2.md
+      - ex-3: more/relief-demo3.md
 
 
 markdown_extensions:

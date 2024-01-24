@@ -1,9 +1,12 @@
 #
 
 ````python fct_label="python"
-def relief(stream=Union[str,pathlib.Path]) -> tesselite.Geometry:
+import tesselite
+
+def relief(stream:Union[str,pathlib.Path]) -> None:
     """simply enable geometry"""
-    return tesselite.Geometry(stream)
+    geometry = tesselite.Geometry(stream)
+    geometry.render()
 ````
 
 
