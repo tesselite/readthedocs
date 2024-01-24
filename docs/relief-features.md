@@ -8,4 +8,4 @@
 | v4      | re-colored drill | ![](static/resources/relief/v4/lena.png) |
 
 
-## [back to menu](relief.md)
+[*back to menu*](relief.md)

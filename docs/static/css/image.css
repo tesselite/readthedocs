@@ -1,3 +1,5 @@
+img[alt=img-xs] { width: 50px; }
+
 img[alt=img] { width: 200px; }
 
 img[alt=img-xl] { width: 800px; }
