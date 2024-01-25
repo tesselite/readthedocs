@@ -1,4 +1,4 @@
 #
 
 
-![type:video](../static/resources/relief/@relief-road-traffic.mp4)
+![type:video](../static/images/relief/@relief-road-traffic.mp4)

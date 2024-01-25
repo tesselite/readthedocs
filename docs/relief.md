@@ -10,7 +10,7 @@ def relief(stream:Union[str,pathlib.Path]) -> None:
 ````
 
 
-![type:video](static/resources/relief/@relief-hd-2.mp4)
+![type:video](static/images/relief/@relief-hd-2.mp4)
 
 
 

@@ -1,4 +1,4 @@
 #
 
 
-![type:video](../static/resources/relief/@relief-crowd.mp4)
+![type:video](../static/images/relief/@relief-crowd.mp4)
