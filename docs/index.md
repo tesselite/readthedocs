@@ -1,4 +1,4 @@
-# **welcome to tesselite**
+# **Welcome to Tesselite**
 
 Read the [pitch deck](more/tesselite-pitch-deck.pdf) document to learn more about the company.
 
