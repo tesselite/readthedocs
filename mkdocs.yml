@@ -8,7 +8,7 @@ nav:
   - high-level:
     - content: high-level.md
     - articles:
-      - second-ai-revolution: content/second-ai-revolution.md
+      - second-ai-revolution: more/second-ai-revolution.md
   - low-level:
     - content: low-level.md
   - usage:
