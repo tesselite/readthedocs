@@ -1,7 +1,6 @@
 # **welcome to tesselite**
 
-Please read our [pitch deck](more/tesselite-pitch-deck.pdf) to learn more about the startup.
-
+Read our [pitch deck](more/tesselite-pitch-deck.pdf) to learn more about the company.
 
 
 
@@ -13,9 +12,9 @@ import tesselite
 tesselite.about()
 ````
 
-We are living in the first AI revolution. The first AI revolution is a expensive scientific experiment started by Google in the early 2010. 
-This scientific experiment outputs fantastic algorithms like the one of chatGPT. 
-Those algorithms demonstrates empirically that language or vision can be taught to a machine.
+We are living in the first AI revolution. The first AI revolution is an expensive scientific experiment started by Google in the early 2010. 
+This scientific experiment output fantastic algorithms like the one of chatGPT. 
+Those algorithms demonstrate empirically that language and vision can be taught to a machine.
 And a machine can outperform humans on those specific tasks.
 In practice, those AI algorithms need a lot of money to reach sufficient accuracy on a given task. 
 The first revolution has not proven yet a sustainable economic model could be drawn from investing large amount of money in AI algorithms.
@@ -34,7 +33,7 @@ On the scientific side, the first AI is a fantastic breakthrough. The first AI r
 3. physical objects can be understood by a computer. Isn't necessary to merge signal and cognitive sciences into a computer science?
 
 
-AI first revolution will have groundbreaking and lasting impact on scientific field. All sciences will be reshuffled to adapt to the new AI frontier. This adaptation will last sometimes as current scientists are not versed into AI technologies. And AI publications are not considered as hardcore sciences as maths and physics.
+AI first revolution will have groundbreaking and lasting impact on the scientific field. All sciences will be reshuffled to adapt to the new AI frontier. This adaptation will last sometimes as current scientists are not versed into AI technologies. And AI publications are not considered as hardcore sciences as maths and physics.
 To scientific community, AI are a computing techniques and statistics. What they are. AI are practical, but theoretically not well established.
 
 Meanwhile, an active research is done to build computers adapted to AI. Regular computer are not designed to run AI computations. Ensued performance bottleneck and poor usage of resources. 

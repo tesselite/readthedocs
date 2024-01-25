@@ -1,4 +1,4 @@
 #
 
 
-![type:video](../static/resources/relief/@relief-hd-3.mp4)
+![type:video](../static/images/relief/@relief-hd-3.mp4)

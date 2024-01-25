@@ -3,7 +3,7 @@
 
 ## **The first Artificial Intelligence revolution**
 
-![img-xl](../static/resources/external/openai.png)
+![img-xl](../static/images/external/openai.png)
 
 *first revolution of AI models is captured by the inflexion of compute operations amount (10^15 FLOPS)[^1].*
 
@@ -54,7 +54,7 @@ Doesn't indicate there is a computational space where lives the geometry? Where 
 
 ## **The second Artificial Intelligence revolution**
 
-![img-xl](../static/resources/external/openai-fixed.png)
+![img-xl](../static/images/external/openai-fixed.png)
 
 The second AI revolution, building upon the lessons learned from its predecessor, focuses on crafting compact, highly accurate models with minimal energy requirements. The breakthrough lies not merely in scaling down the existing models but in a fundamental rethinking of AI architectures. Researchers and developers have dissected the inner workings of the massive models from the first wave, distilling their essence to create streamlined, efficient versions.
 
