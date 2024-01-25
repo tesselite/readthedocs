@@ -36,11 +36,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://tesselite.github.io/readthedocs/content/second-ai-revolution/</loc>
-         <lastmod>2024-01-25</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://tesselite.github.io/readthedocs/more/relief-demo0/</loc>
          <lastmod>2024-01-25</lastmod>
          <changefreq>daily</changefreq>
@@ -57,6 +52,11 @@
     </url>
     <url>
          <loc>https://tesselite.github.io/readthedocs/more/relief-demo3/</loc>
+         <lastmod>2024-01-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://tesselite.github.io/readthedocs/more/second-ai-revolution/</loc>
          <lastmod>2024-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
