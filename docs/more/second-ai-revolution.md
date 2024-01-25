@@ -1,5 +1,27 @@
 # **The Second Artificial Intelligence Revolution::** *Low Footprint And High Accuracy Models*
 
+## **Natural intelligence and human labor is cheaper**
+
+Large amount of money is necessary to operate AI at business level. 
+Meanwhile, natural intelligence and human labor is cheap and simple to scale.  
+Human intelligence and labor requires less setup than state-of-the art AI. 
+Even though, a tuned AI outperforms human by an order of magnitude on specific task. AI is still far too expensive in comparison cheap human intelligence and labor.
+On the business side is not clear how profitable will be the first revolution AI? Not speaking of the negative impact on the ecology (we did calculations right [here](#the-first-artificial-intelligence-revolution))
+
+
+On the scientific side, the first AI is a fantastic breakthrough. The first AI revolution demonstrates empirically that:
+
+1. real life objects can be versed into data spaces and computed. Isn't necessary to extend mathematics to model more than numbers?
+2. language can be computed. Isn't necessary to rethink language as a computer science?
+3. physical objects can be understood by a computer. Isn't necessary to merge signal and cognitive sciences into a computer science?
+
+
+AI first revolution will have groundbreaking and lasting impact on the scientific field. All sciences will be reshuffled to adapt to the new AI frontier. This adaptation will last sometimes as current scientists are not versed into AI technologies. And AI publications are not considered as hardcore sciences as maths and physics.
+To scientific community, AI are a computing techniques and statistics. What they are. AI are practical, but theoretically not well established.
+
+Meanwhile, an active research is done to build computers adapted to AI. Regular computer are not designed to run AI computations. Ensued performance bottleneck and poor usage of resources. 
+Some manufacturers already commercialize AI adapted computers.   
+
 
 ## **The first Artificial Intelligence revolution**
 
